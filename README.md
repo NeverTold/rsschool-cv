@@ -1,2 +1,3 @@
 # rsschool-cv
-Rs school tasks
+- Rs school tasks
+>(https://nevertold.github.io/rsschool-cv/cv)
