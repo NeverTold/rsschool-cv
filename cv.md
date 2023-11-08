@@ -2,8 +2,7 @@
 # Full name:
 Opokin Ilia Vladimirovich
 # Contact Information:
-<p align=center>
- <a href="Https://discordapp.com/users/389339516105916437"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="@Nevertold"/></a>
+[![Discord](https://img.icons8.com/color/96/000000/discord-logo.png)](Https://discordapp.com/users/389339516105916437)
  <a href="https://t.me/Nevertoldme"><img width="96" height="96" src="https://img.icons8.com/external-flat-icons-inmotus-design/96/external-blue-telegram-flat-icons-inmotus-design.png" alt="external-blue-telegram-flat-icons-inmotus-design"/></a>
   <a href="https://vk.ru/opokinilia"><img width="96" height="96" src="https://img.icons8.com/color/96/vk-com.png" alt="vk-com"/></a>
 </p>
