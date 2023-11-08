@@ -8,7 +8,7 @@
 # Telegram
 ![Telegram QR-code](https://github.com/NeverTold/rsschool-cv/blob/8202f09c1292cc0c7342de19751db6a9e7577db7/telegram.png)
 # Brief Self-Introduction
-
+- Кодю код, люблю собак.
 # Skills 
 - Visual Basic
 - Pascal
