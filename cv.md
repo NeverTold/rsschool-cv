@@ -1,4 +1,4 @@
-![Ilia Opokin](https://github.com/NeverTold/rsschool-cv/blob/img/Opokin60.jpg?raw=true)
+![Ilia Opokin](https://github.com/NeverTold/rsschool-cv/blob/gh-pages/Opokin60.jpg?raw=true)
 # Full name:
 - **Opokin Ilia Vladimirovich**
 # Contact Information:
@@ -6,7 +6,7 @@
 [![Telegram](https://img.icons8.com/external-flat-icons-inmotus-design/96/external-blue-telegram-flat-icons-inmotus-design.png)](https://t.me/Nevertoldme)
 [![Vk](https://img.icons8.com/color/96/vk-com.png)](https://vk.ru/opokinilia)
 # Telegram
-![Telegram QR-code](https://github.com/NeverTold/rsschool-cv/blob/img/telegram.png?raw=true)
+![Telegram QR-code](https://github.com/NeverTold/rsschool-cv/blob/gh-pages/telegram.png?raw=true)
 # Brief Self-Introduction
 - Кодю код, люблю собак.
 # Skills 
